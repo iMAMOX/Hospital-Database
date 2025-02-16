@@ -13,8 +13,9 @@
 [SQL Code](Hospital%20DB%20Project.sql)
 
 
-### Random Queries for Testing 
+## Random Queries for Testing 
 [Queries.pdf](Queries.pdf)
 
-### Final Rebort
+
+## Final Rebort
 [Final Report](Final%20Report.pdf)
